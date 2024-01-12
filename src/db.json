@@ -1,0 +1,99 @@
+{ "media": [
+      {
+        "id": 1,
+        "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/4756ECBE9E78125C0A09560E176199FC2F2ACD57A7C1D7AFC210887248035C9B/scale?width=1200&aspectRatio=1.78&format=jpeg",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/BB04C4C76F0E036470DA9CF67246C861A6B0B5B67C6503974CE8E570AA9CAC9D/scale?width=2880&amp;aspectRatio=1.78&amp;format=jpeg",
+        "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/3E52B2AB72A52BF2890EB14B097FCFE7453D8DA11FD0FAC8B8CBDEE92154DC23/scale?width=1344&aspectRatio=1.78&format=png",
+        "synopsis":"O pré adolescente Cory Matthews encara problemas com a família, escola e amigos.",
+        "type": "series"
+    },
+    {
+      "id": 2,
+      "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/E1A6778D38160DB8A1262993FEF39EA3AD04C752E2158646011B88712667F234/scale?width=1200&aspectRatio=1.78&format=jpeg",
+      "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/va…3D8/scale?width=1440&aspectRatio=1.78&format=jpeg",
+      "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/2FD53BB8EB31822412E4F0243292799C45946DCB06ADC32B78F70E9660406F21/scale?width=1920&aspectRatio=1.78&format=png",
+      "synopsis": "Uma comédia musical sobre um grupo de ambiciosos e talentosos jovens que sonham com o estrelato, mas lutam com a vida no mundo real.",
+      "type": "series"
+    },
+    {
+      "id": 3,
+      "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/8D4C9E6B1697654892A104DFE060B127679E5683C7889103277BF352ED379E7B/scale?width=800&aspectRatio=1.78&format=jpeg",
+      "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/9B02FF93A0695199BFA1E74F708B021478E8D9CF4EE04434948FCF47A378BAEC/scale?width=2880&aspectRatio=1.78&format=jpeg",
+      "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/D0047A035CBC4D803286E5E4CA9BA3FD408CAA2F2DB8037549E13B7806DB1C3B/scale?width=1920&aspectRatio=1.78&format=png",
+      "synopsis": "Malcolm, um garoto de noves anos que gosta de andar de skate e sair com o seu melhor amigo Stevie, tem sua vida de cabeça para baixo ao ser forçado a entrar na turma dos 'talentos' e se vê cercado por um grupo de párias talentosos.",
+      "type": "series"
+    },
+    {
+        "id": 4,
+        "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/77818AD0745A7EDEA0C14AD1D2DF786E544C9262908DCE75116F25DAB039A0F8/scale?width=800&aspectRatio=1.78&format=jpeg",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/716CB612233AFCC6D49AB015A14C0D75E55A1D29FD638DCDB15D91A330A51743/scale?width=2880&aspectRatio=1.78&format=jpeg",
+        "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/7D6E7BF3FBA45E0D89296AE195159F85794D752C9772B1A8BC8B6ED2CDECF3E2/scale?width=2880&aspectRatio=1.78&format=png",
+        "synopsis": "Conheça os Silva Sauro, a família mais engraçada de 60 milhões de anos! Eles são apenas uma família comum com uma GRANDE diferença. Eles são dinossauros, vivendo uma vida boa em sessenta milhões e três a.C.",
+        "type": "series"
+    }, 
+    {
+        "id": 5,
+        "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/A863D3455F8901C38D59AC184FE38C8ED85140D890A077E48DA0EBD464940FB6/scale?width=800&aspectRatio=1.78&format=jpeg",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/C10158EE9E56AECE983751BDB58568AB70C116D05E151BC5CECB304BBD9632C8/scale?width=2880&aspectRatio=1.78&format=jpeg",
+        "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/61EEE8D9300AF4E8B6D0AB778FA95F710891A851A929E0FB942336F9C4B31744/scale?width=1920&aspectRatio=1.78&format=png",
+        "synopsis": "Em 2024, os mutantes estão em declínio, e as pessoas não sabem o motivo. Uma organização está transformando as crianças mutantes em verdadeiras assassinas. Wolverine, a pedido do Professor Xavier, precisa proteger a jovem e poderosa Laura Kinney.",
+        "type": "movies"
+    },
+    {
+      "id": 6,
+      "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/FEF6E538FB86E83A8E16B864FE54CDA6F5C2229A9EAD5995BA91664B3EF0CBC8/scale?width=400&aspectRatio=1.78&format=jpeg",
+      "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/050ECA0F7A63AC223DD0A105AD0A6DBE4DC89E4FC77ED36F48D4DCCC5E2311CA/scale?width=2880&aspectRatio=1.78&format=jpeg",
+      "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/93F42727C5A67297B830E91AE2E36F5AB598A0F8726A8D8D4B52B918F0C5B01A/scale?width=1920&aspectRatio=1.78&format=png",
+      "synopsis": "Em um dos melhores restaurantes de Paris, Remy, um rato, sonha em se tornar um renomado chef francês.",
+      "type": "movies"
+    },
+    {
+      "id": 7,
+      "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/DF5B59122FC2BA93FFDB173961AF6A9BC4619352473105676E1B1917D46C1600/scale?width=800&aspectRatio=1.78&format=jpeg",
+      "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/ADD8548EFEF4C9422E567969E7624A9C6C50E7E5063304BCBA4D4CD88CDB291B/scale?width=2880&aspectRatio=1.78&format=jpeg",
+      "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/4D08810F87249808231B3595F1A8B12CA05A22F850C1C4BC84A6DBE202A5011E/scale?width=1344&aspectRatio=1.78&format=png",
+      "synopsis": "Lúcia, Edmundo, Susana e Pedro Pevensie entram em um guarda-roupa mágico e descobrem o mundo encantado de Nárnia do outro lado.",
+      "type": "movies"
+    },
+    {
+      "id": 8,
+      "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/06F166BE5F3883328C8DC603BBA2DCCBFA759C9E3765618FB9B8419E41C7038E/scale?width=800&aspectRatio=1.78&format=jpeg",
+      "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/C11B52657003CBD733836ADAA3C9797A576A1EAF557469DA6F31DD5FF22BC2A6/scale?width=1920&aspectRatio=1.78&format=jpeg",
+      "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/427924E5093A82B258B4435E7EEB3698E9870E4087AF6DB6DA68D63A9C6BDD2E/scale?width=1920&aspectRatio=1.78&format=png",
+      "synopsis": "Troy, o capitão do time de basquete da escola, e Gabriella, uma aluna nova inteligente, se conectam, através da música, em um nível que é mais do que uma paixão de escola.",
+      "type": "movies"
+    },
+    {
+      "id": 9,
+      "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/A58392C87A7976895745EC89890AA401F243ABF8227BBF01BFF76D196323A610/scale?width=800&aspectRatio=1.78&format=jpeg",
+      "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/24A4E61C52A51563EAC9C467F319EE01F201FD8C1FFF07294C6B36DF6893AFEE/scale?width=1920&aspectRatio=1.78&format=jpeg",
+      "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/07A7A06FBEAA66DC8E6CA98F7F365CE6DA9983049539C03392B99E6BEC60BD2B/scale?width=1344&aspectRatio=1.78&format=png",
+      "synopsis": "Acompanhe Alice quando ela persegue o Coelho Branco numa jornada mágica pelo fantástico País das Maravilhas.",
+      "type": "classics"
+    },
+    {
+      "id": 10,
+      "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/4DAB33FD5087BD244014C1526EDA1B20910D8D623B856AA59BDF7F31D5851FA9/scale?width=800&aspectRatio=1.78&format=jpeg",
+      "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/88CA71C405879AAF9AE9D2E365C011346946BA2812F30894C27E9B4C854EF80F/scale?width=2880&aspectRatio=1.78&format=jpeg",
+      "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/294314DE8331775F38124C954F2C35D376B61BA3357CE985AD365B2B39B35449/scale?width=2880&aspectRatio=1.78&format=png",
+      "synopsis": "A vingativa Malévola lança uma maldição sobre a Princesa Aurora, que só poderá ser quebrada com o beijo do verdadeiro amor.",
+      "type": "classics"
+    },
+    {
+      "id": 11,
+      "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/A953261347BBA31DF355232A52BE154AFBE0F3AD3E721013B062D9F63DF60ACB/scale?width=800&aspectRatio=1.78&format=jpeg",
+      "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/0614597C08938720A1E01BD42A37ED0108FDC97AB8B19BA20306B8C3690C90D7/scale?width=1920&aspectRatio=1.78&format=jpeg",
+      "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B73590942227A87FC7A68560EEF2D6205BC2F2F1747277B8C455763D39FA8300/scale?width=1344&aspectRatio=1.78&format=png",
+      "synopsis": "Por meio da magia da animação, 'O Vento nos Salgueiros' e 'A Lenda do Cavaleiro sem Cabeça' estão juntas em uma só aventura. Conheça o Sr. Sapo, Toupeira, Rato, Angus MacBadger, Ichabod Crane e Katrina Van Tassel.",
+      "type": "classics"
+    },
+    {
+      "id": 12,
+      "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/9C0D26A5CEA2EAD2EDF2E49C5AFD0B3E6F4422D13D0629F3BE2A631DD1263170/scale?width=800&aspectRatio=1.78&format=jpeg",
+      "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/CA1F94AC4F979796EBC4D45C663A2474A0ECBE1AB7EA9C5D472952F109794A97/scale?width=1920&aspectRatio=1.78&format=jpeg",
+      "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/806936D1ABAB998405C611809CF44DAFDA230F14ABB56258278D00591D55A03C/scale?width=1344&aspectRatio=1.78&format=png",
+      "synopsis": "Quando Donald recebe presentes mágicos de seus amigos Zé Carioca e Panchito, eles se transformam em seu passaporte para uma fantástica jornada musical cheia de surpresas.",
+      "type": "classics"
+    }]}
+
+
