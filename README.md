@@ -3,7 +3,7 @@
 ## Project's Scope
 
 * Responsive clone of Disney+ streaming service web page: login page, home page, and movie page
-* Data fetched from the my-json-server
+* Data fetched by my-json-server
 > [!NOTE]  
 > Watchlist state management yet to be build.
 
