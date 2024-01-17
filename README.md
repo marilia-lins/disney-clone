@@ -14,7 +14,6 @@
 ![disney2](https://github.com/marilia-lins/disney-clone/assets/121808358/1f926e6b-aed6-41ca-ab1a-0e2f29d18b49)
 
 ### Installing and running
-
 ```
 git clone https://github.com/marilia-lins/disney-clone.git
 cd disney-clone
