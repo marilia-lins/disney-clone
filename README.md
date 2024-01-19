@@ -22,6 +22,33 @@ npm start
 ```
 The project will run at http://localhost:3000
 
+## Dependency Versioning
+
+* Redux Toolkit:
+  - @reduxjs/toolkit: ^2.0.1
+* React Redux:
+  - react-redux: ^9.0.4
+* JSON Server:
+  - json-server: ^0.17.4
+* React & React DOM:
+  - react: ^18.2.0
+  - react-dom: ^18.2.0
+* React Router:
+  - react-router-dom: ^6.20.1
+* Testing Library:
+  - @testing-library/jest-dom: ^5.17.0
+  - @testing-library/react: ^13.4.0
+  - @testing-library/user-event: ^13.5.0
+* React Slick & Slick Carousel:
+  - react-slick: ^0.29.0
+  - slick-carousel: ^1.8.1
+* Styled-Components:
+  - styled-components: ^6.1.1
+* Other Dependencies:
+   - react-scripts: 5.0.1
+   - web-vitals: ^2.1.4
+
+
 ## Details & Description
 
 * Carousel on the top of the page built with React Slick
