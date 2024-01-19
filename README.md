@@ -20,6 +20,7 @@ cd disney-clone
 npm install
 npm start
 ```
+The project will run at http://localhost:3000
 
 ## Details & Description
 
